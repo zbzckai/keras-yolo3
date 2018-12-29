@@ -5,6 +5,8 @@
 ## Introduction
 
 A Keras implementation of YOLOv3 (Tensorflow backend) inspired by [allanzelener/YAD2K](https://github.com/allanzelener/YAD2K).
+
+介绍目标检测以及yolov3的实现
 [代码实现过程](https://blog.csdn.net/zbzckaiA/article/details/85334800)
 
 ---
