@@ -1,0 +1,1 @@
+D:\soft\git\kai\keras-yolo3/VOC2007/JPEGImages/652.jpg 512,211,817,438,1

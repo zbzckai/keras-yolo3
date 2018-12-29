@@ -1,0 +1,6 @@
+D:\soft\git\kai\keras-yolo3/VOC2007/JPEGImages/250.jpg 51,48,698,411,0
+D:\soft\git\kai\keras-yolo3/VOC2007/JPEGImages/271.jpg 430,185,1024,569,0
+D:\soft\git\kai\keras-yolo3/VOC2007/JPEGImages/281.jpg 180,116,459,348,0
+D:\soft\git\kai\keras-yolo3/VOC2007/JPEGImages/656.jpg 143,127,906,516,1
+D:\soft\git\kai\keras-yolo3/VOC2007/JPEGImages/669.jpg 269,216,564,485,1
+D:\soft\git\kai\keras-yolo3/VOC2007/JPEGImages/673.jpg 422,259,769,432,1

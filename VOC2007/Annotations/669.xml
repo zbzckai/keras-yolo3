@@ -1,0 +1,26 @@
+<annotation>
+	<folder>xml</folder>
+	<filename>669.jpg</filename>
+	<path>E:\work\xml\669.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ladybug</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>269</xmin>
+			<ymin>216</ymin>
+			<xmax>564</xmax>
+			<ymax>485</ymax>
+		</bndbox>
+	</object>
+</annotation>
